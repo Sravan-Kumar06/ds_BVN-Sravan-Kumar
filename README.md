@@ -3,7 +3,7 @@
 #what we have to do:
 The assignment aims to analyze how Bitcoin market sentiment affects trader performance using two datasets,  one containing daily sentiment labels and the other with historical trading data. The objective is to explore correlations, perform statistical and pattern analysis, and derive insights that can guide smarter and emotion-aware trading strategies.
 
-##  What We Have Done (Steps Breakdown)
+##  What I Have Done
 
 ###  1. Data Cleaning and Preparation
 - Cleaned column names and formats
